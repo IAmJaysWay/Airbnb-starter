@@ -9,7 +9,7 @@
         lat: "40.716862",
         long: "-73.999005",
         name: "Apartment in China Town",
-        pricePerDay_decimal: "3",
+        pricePerDay: "3",
       },
     },
   ];
