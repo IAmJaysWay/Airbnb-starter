@@ -1,3 +1,4 @@
+/* DatePicker and Input <div> */
 .sc-gGCDDS {
     outline: 0px !important;
     padding-left: 0px !important;
@@ -5,6 +6,7 @@
     padding-bottom: 3px !important;
 }
 
+/* Select inner <div> */
 .sc-fbyfCU {
     border: 0px !important;
     padding-left: 0px !important;
@@ -14,16 +16,18 @@
     font-size: 14px !important;
 }
 
+/* Select outer <div> */
 .sc-jUosCB {
     width: 170px !important;
 }
 
-
+/* DatePicker and Input <input> */
 .sc-faUpoM {
     height:26px !important;
     font-size:14px !important;
 }
 
+/* DatePicker <span> */
 .sc-lcepkR {
     height: 70% !important;
 }
